@@ -1,4 +1,4 @@
-of
+
 % Script by Anthony Owusu-Mensah, current 08/2020
 % Script returns the potential, electric field and charge density
 % of atoms in a pore region for each .gro file
